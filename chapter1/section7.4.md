@@ -1,0 +1,78 @@
+# ASSET
+<table>
+ <tr>
+            <th>名称</th>
+            <th>说明</th>
+            <th>类型及长度</th>
+            <th>备注</th>
+        </tr>
+        <tr>
+            <td>assetId</td>
+            <td>资产 ID</td>
+            <td>String(64)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td>资产类型</td>
+            <td>String(8)</td>
+            <td>FBC | BTC | LTC | TOKEN</td>
+        </tr>
+       <tr>
+            <td>alias</td>
+            <td>别名</td>
+            <td>String(32)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>dataTable</td>
+            <td>查询关键字</td>
+            <td>String(50)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>metadata</td>
+            <td>附属信息</td>
+            <td>String(1548)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>filePath</td>
+            <td>附件id</td>
+            <td>String(1548)</td>
+            <td>用^分隔</td>
+        </tr>
+        <tr>
+            <td>amount</td>
+            <td>金额</td>
+            <td>Decimal(10,4)</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>count</td>
+            <td>数量</td>
+            <td>Decimal(10,0)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>status</td>
+            <td>状态</td>
+            <td>int</td>
+            <td>0=无效，1:创建，2:入链，3:有效</td>
+        </tr>
+        <tr>
+            <td>createTime</td>
+            <td>创建时间</td>
+            <td>dateTime</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>update</td>
+            <td>更新时间</td>
+            <td>dateTime</td>
+            <td></td>
+        </tr>
+
+</table>
+
+

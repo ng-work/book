@@ -1,0 +1,39 @@
+# HiWallet 平台接口规范
+
+<table>
+    <tr>
+        <th>版本号</th>
+        <th>修改人</th>
+        <th>审批人</th>
+        <th>修改日期</th>
+        <th>修改记录</th>
+    </tr>
+    <tr>
+        <th>1.1.0</th>
+        <th>Ailen</th>
+        <th></th>
+        <th>2017年7月17日</th>
+        <th>创建</th>
+    </tr>
+    <tr>
+        <th>1.2.0</th>
+        <th>jack</th>
+        <th></th>
+        <th>2017年8月23日</th>
+        <th>资产校验</th>
+    </tr>
+    <tr>
+        <th>1.2.1</th>
+        <th>jack</th>
+        <th></th>
+        <th>2017年8月25日</th>
+        <th>修改校验</th>
+    </tr>
+    <tr>
+        <th>1.2.2</th>
+        <th>jack</th>
+        <th></th>
+        <th>2017年8月28日</th>
+        <th>修改校验</th>
+    </tr>
+</table>

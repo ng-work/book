@@ -1,0 +1,40 @@
+# 接口地址
+
+<table>
+    <tr>
+        <th>接口名称</th>
+        <th>接口地址</th>
+    </tr>
+    <tr>
+        <td>用户登录</td>
+        <td>/usr/pblin.do?fh=LINUSR0000000J00&resp=bd&bd</td>
+    </tr> 
+    <tr>
+        <td>创建资产</td>
+        <td>/ast/pbcrt.do?fh=CRTAST0000000J00&resp=bd&bd</td>
+    </tr> 
+    <tr>
+        <td>文件上传</td>
+        <td>/sys/upload.do</td>
+    </tr> 
+    <tr>
+        <td>文件下载</td>
+        <td>/sys/download.do</td>
+    </tr> 
+    <tr>
+        <td>资产查询</td>
+        <td> /ast/pbqry.do?fh=QRYAST0000000J00&resp=bd&bd</td>
+    </tr> 
+    <tr>
+        <td>资产回溯</td>
+        <td>/ast/pbtra.do?fh=TRAAST0000000J00&resp=bd</td>
+    </tr> 
+    <tr>
+        <td>账本共享存储信息</td>
+        <td>/sto/pbsiz.do?fh=SIZSTO0000000J00&resp=bd</td>
+    </tr> 
+    <tr>
+        <td>资产校验</td>
+        <td>/ast/pbvry.do?fh=VRYAST0000000J00&resp=bd</td>
+    </tr> 
+</table>
