@@ -1,6 +1,6 @@
 # Summary
 
-* [蜂巢链产品手册](manual/manual.md)
+* [蜂巢链产品手册](readme.md)
     * [产品简介](manual/manual1.md)
     <!-- * [产品架构](manual/manual2.md)
         * [功能特性](manual/manual3.md) -->

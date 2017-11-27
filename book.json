@@ -1,5 +1,5 @@
 {
-  "title": "finchain",
+  "title": "蜂巢链",
   "language" : "zh-hans",
   "links": {
     "gitbook": false,
@@ -7,7 +7,7 @@
       "google": false,
       "facebook": false,
       "twitter": false,
-      "all": false
+      "all": true
     }
   },
   "styles": {
