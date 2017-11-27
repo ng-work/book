@@ -1,7 +1,7 @@
 # Summary
 
-<!-- * [HiWallet 平台接口规范](README.md) -->
-* [HiWallet 平台接口规范](README.md)
+* [蜂巢链简介](README.md)
+* [HiWallet 平台接口规范](chapter1/section1.1.md)
     * [引言](javascript:;)
         * [编写目的](chapter1/section1.1.1.md)
         * [覆盖范围](chapter1/section1.1.2.md)
