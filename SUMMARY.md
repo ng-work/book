@@ -1,15 +1,16 @@
 # Summary
 
-* [蜂巢链产品手册](README.md)
+* [蜂巢链产品手册](manual/manual.md)
     * [产品简介](manual/manual1.md)
-    * [产品架构](manual/manual2.md)
-    * [功能特性](manual/manual3.md)
+    <!-- * [产品架构](manual/manual2.md)
+        * [功能特性](manual/manual3.md) -->
     * [加入流程](manual/manual4.md)
     * [专属链](manual/manual5.md)
-    * [创建链](manual/manual6.md)
-    * [专属链管理](manual/manual7.md)
-    * [续费](manual/manual8.md)
-    * [区块监控](manual/manual9.md)
+    * [基本概念](manual/manual10.md)
+    <!-- * [创建链](manual/manual6.md)
+        * [专属链管理](manual/manual7.md)
+        * [续费](manual/manual8.md)
+        * [区块监控](manual/manual9.md) -->
     
 * [HiWallet 平台接口规范](chapter1/section1.1.md)
     * [引言](chapter1/section1.1.1.md)
