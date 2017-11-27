@@ -10,6 +10,9 @@
       "all": false
     }
   },
+  "styles": {
+    "website": "styles/website.css"
+  },
   "plugins": [
     "-sharing",
     "-fontsettings",
@@ -20,8 +23,7 @@
     "katex",
     "expandable-chapters-small",
     "splitter",
-    "anchor-navigation-ex",
-    "anchors"
+    "anchor-navigation-ex"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {

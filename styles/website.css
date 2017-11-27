@@ -1,0 +1,6 @@
+li:last-child .gitbook-link{
+    display:none !important;
+}
+.divider{
+    display:none !important;
+}
